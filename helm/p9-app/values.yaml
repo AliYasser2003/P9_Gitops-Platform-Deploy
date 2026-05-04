@@ -1,0 +1,9 @@
+replicaCount: 1
+
+image:
+  repository: alyyasser10/p9-app
+  tag: latest
+
+service:
+  type: ClusterIP
+  port: 80
