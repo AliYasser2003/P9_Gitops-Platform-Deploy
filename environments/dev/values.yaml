@@ -1,4 +1,4 @@
 replicaCount: 2
 image:
   repository: alyyasser10/p9-app
-  tag: latest
+  tag: initial
