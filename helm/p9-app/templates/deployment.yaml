@@ -17,5 +17,6 @@ spec:
       containers:
         - name: p9-app
           image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+          imagePullPolicy: Always
           ports:
             - containerPort: 80
