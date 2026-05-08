@@ -1,4 +1,4 @@
 replicaCount: 2
 image:
   repository: alyyasser10/p9-app
-  tag: c118c5f8cc929edadd612f7e83eb224bb529caf9
+  tag: 5bab1d88c1cf1426f42cebad9d97bcb5dc5f5a11
